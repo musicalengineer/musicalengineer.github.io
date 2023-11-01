@@ -27,7 +27,7 @@ url: "https://musicalengineer.github.io" # the base hostname & protocol for your
 github_username:  musicalengineer
 
 # Build settings
-theme: hacker
+theme: minima
 plugins:
   - jekyll-feed
 
