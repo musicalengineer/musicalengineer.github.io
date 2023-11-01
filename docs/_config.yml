@@ -27,11 +27,9 @@ url: "https://musicalengineer.github.io" # the base hostname & protocol for your
 github_username:  musicalengineer
 
 # Build settings
-# theme: hacker
-remote_theme: pages-themes/hacker@v0.2.0
+theme: hacker
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
