@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "This site is using the Jekyll framework to make it easy to maintain"
 date:   2023-11-01 14:39:27 -0400
 categories: jekyll update
 ---
