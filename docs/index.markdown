@@ -5,10 +5,10 @@
 layout: home
 ---
 
-# Welcome to the Society
+# Middlefield Astronomy
 
-[About Us](/about)
+[About](/about)
 
-[Rick's Shots](/gallery)
+[Recent Astronomy Photos](/gallery)
 
-![MAS AI Generated](images/dalle.png)
+![NGC 7000, The North America Nebula](images/ngc7000.png)
