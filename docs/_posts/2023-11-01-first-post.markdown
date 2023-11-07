@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Middlefield Astronomy - Test Post"
-date:   2023-11-01 14:39:27 -0400
+title:  "Middlefield Astronomy - test post"
+date:   2023-11-07 18:16:27 -0400
 categories: astronomy information
 ---
 
