@@ -5,9 +5,11 @@
 layout: home
 ---
 
-# Welcome to the Society
+# Welcome to Middlefield Astronomy
 
 [About Us](/about)
+
+[Newsletters](/newsletters)
 
 [Rick's Shots](/gallery)
 
