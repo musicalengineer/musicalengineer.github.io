@@ -9,7 +9,9 @@ layout: home
 
 [About](/about)
 
-[Some Recent Astronomy Photos](/gallery)
+[Recent Astro Photos](/gallery)
+
+[News and Events](/news)
 
 ![NGC 7000, The North America Nebula](images/ngc7000.jpg)
 
